@@ -1,0 +1,14 @@
+{
+	"name": "gomez-ws",
+	"main": "./lib/gws",
+	"description": "Gomez Web Services API library.",
+	"keywords": ['api', 'gomez'],
+	"version": "0.1.1",
+	"author": {
+    	"name": "Stefan Karytko"
+	},
+	"dependencies": {
+    	"xml2js": "~0.1.14",
+    	"request": "~2.9.203"
+  	}
+}
